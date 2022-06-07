@@ -6,14 +6,16 @@
     "crudpage_1 Copy",
     "ApiCalls_1",
     "crudpage_1",
-    "Page2"
+    "Page2",
+    "Child_Page"
   ],
   "publishedPageOrder": [
     "crudpage_1",
     "crudpage_1 Copy",
     "ApiCalls_1",
     "crudpage_1",
-    "Page2"
+    "Page2",
+    "Child_Page"
   ],
   "publishedDefaultPageName": "crudpage_1",
   "unpublishedDefaultPageName": "crudpage_1",
@@ -30,7 +32,19 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
+    "ApiCalls_1_JSObject1.myFun1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_1_JSObject1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "ApiCalls_1_get_data": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "ApiCalls_1_get_users": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
