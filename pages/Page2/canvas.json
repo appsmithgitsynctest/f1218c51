@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "Page2",
+    "slug": "page2",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         },
         "layoutOnLoadActions": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "Page2",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
   },
   "deleted": false,
   "policies": [],
-  "gitSyncId": "629faef724d82b7b75e7d598_629faf4824d82b7b75e7d5ba"
+  "gitSyncId": "629faef724d82b7b75e7d598_629faf6824d82b7b75e7d5bf"
 }
